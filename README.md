@@ -8,4 +8,4 @@
    * Android SDK and NDK Tools
    * OpenJDK
 
-### HARDWARE: Tested with Oculus Quest 2, but should work with all other VR devices. 
+### Hardware: Tested with Oculus Quest 2, but should work with all other VR devices. 
