@@ -1,4 +1,5 @@
 ![Screenshot](./Screenshot/Gameplay.PNG)
+![Screenshot](./Screenshot/GamePlay.gif)
 ### About
 * This is a Unity VR game
 * The goal is for the player to use there hands to block all oncoming objects from getting past them. 
