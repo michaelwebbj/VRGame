@@ -1,4 +1,4 @@
-![Screenshot](./Screenshot/Gameplay.PNG)
+#![Screenshot](./Screenshot/Gameplay.PNG)
 ![Screenshot](./Screenshot/GamePlay.gif)
 ### About
 * This is a Unity VR game
